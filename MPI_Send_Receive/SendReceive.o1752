@@ -1,0 +1,4 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+ Receiving data value         137 at destination processor           1
+ Sending data value         137 from source processor           0
