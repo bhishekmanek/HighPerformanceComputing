@@ -1,0 +1,6 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+ Value of pi   3.1483080000000001      in processor no.           3
+ Value of pi   3.1509920000000000      in processor no.           0
+ Value of pi   3.1502119999999998      in processor no.           1
+ Value of pi   3.1501960000000002      in processor no.           2
